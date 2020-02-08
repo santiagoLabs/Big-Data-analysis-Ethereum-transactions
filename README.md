@@ -12,3 +12,6 @@ spark.py is a Spark Job to evaluate the top 10 smart contracts by total Ether re
 
 **Barchart of the number of transactions created using matplotlib**
 ![](images/transPlot.png)
+
+**This image shows the output of the Spark job**
+![](images/topten.png)
