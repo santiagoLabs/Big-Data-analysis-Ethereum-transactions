@@ -5,3 +5,10 @@ MapReduce.py is a MapReduce job to process the number of transactions occuring e
 
 spark.py is a Spark Job to evaluate the top 10 smart contracts by total Ether received
 
+
+**This image show the output of the MapReduce job ([Year, Month],  numberOfTransactions)**
+![](images/numTrans.png)
+
+
+**Barchart of the number of transactions created using matplotlib**
+![](images/transPlot.png)
